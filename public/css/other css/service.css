@@ -1,0 +1,24 @@
+.service_page_container{
+    padding: 0 150px;
+    margin-top: 150px;
+}
+.service_title{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.service_ul{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.service_li{
+    line-height: 30px;
+    font-size: 17px;
+}
+
+@media (max-width:640px) {
+    .service_page_container{
+        padding: 0 40px;
+        margin-top: 150px;
+    }
+}

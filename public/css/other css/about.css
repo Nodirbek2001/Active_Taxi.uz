@@ -1,0 +1,27 @@
+.about{
+    margin-top: 80px;
+}
+.about_container{
+    margin-top: 250px;
+    background-color: #f2f2f3;
+    opacity: 1;
+    position: relative;
+}
+.about_title{
+position: relative;
+top: 50px;
+}
+.about_text{
+    margin-top: 100px;
+    
+}
+.about_img{
+    background-color: black;
+    opacity: 0.9;
+    top: 50px;
+    position:absolute;
+    z-index: 0;
+    height: 250px;
+    width: 100%;
+
+}
